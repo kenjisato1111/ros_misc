@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="launch_arg" type="print_arg.py" name="print_arg"
+	output="screen" required="true" />
+</launch>
